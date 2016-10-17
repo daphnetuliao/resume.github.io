@@ -33,13 +33,13 @@ div {
 	color: #ffffff;
 }
 
-h5{
+h4{
 	margin-left: 5px;
 	margin-bottom: 15px;
 	font-family: Arial;
 }
 p{
-	font-size: 11px;
+	font-size: 12px;
 	font-family: Arial;
 }
 .right p {
@@ -53,7 +53,7 @@ p{
 li {
 	list-style-type: square;
 	font-family: Verdana;
-	font-size: 10px;
+	font-size: 12px;
 }
 
 a:hover {
