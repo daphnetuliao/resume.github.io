@@ -39,7 +39,7 @@ h4{
 	font-family: Courier;
 }
 p{
-	font-size: 11px;
+	font-size: 13px;
 	font-family: Courier;
 }
 .right p {
@@ -53,7 +53,7 @@ p{
 li {
 	list-style-type: square;
 	font-family: Courier;
-	font-size: 10px;
+	font-size: 11px;
 }
 
 a:hover {
