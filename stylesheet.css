@@ -36,24 +36,24 @@ div {
 h4{
 	margin-left: 5px;
 	margin-bottom: 15px;
-	font-family: Courier;
+	font-family: Arial;
 }
 p{
-	font-size: 13px;
-	font-family: Courier;
+	font-size: 14px;
+	font-family: Arial;
 }
 .right p {
 	margin-left: 5px;
 	margin-right: 5px;
 	margin-top: -10px;
-	font-family: Courier;
+	font-family: Arial;
 	color: #000000;
 }
 
 li {
 	list-style-type: square;
-	font-family: Courier;
-	font-size: 11px;
+	font-family: Arial;
+	font-size: 13px;
 }
 
 a:hover {
